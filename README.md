@@ -3,7 +3,7 @@
 
 ### Aspiring CS Major with a focus on Machine Learning, Data Science, and Software Development.
 
-- 👩‍💻 3rd year Computing Science Student at the University of Alberta
+- 👩‍💻 4th year Computing Science Student at the University of Alberta
 - ⚙️ Currently learning about applying various machine learning techniques in robotics and automation of control systems.
 
 ## 🌐 Socials:
