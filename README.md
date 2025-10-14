@@ -19,7 +19,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ## 📈 GitHub Stats:
-![Samia's GitHub stats](https://github-readme-stats.vercel.app/api?username=samia225&show_icons=true&theme=cobalt)
+![samia225's Stats](https://github-readme-stats.vercel.app/api?username=samia225&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![samia225's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samia225&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+
 
 
 ## 🧠 Contributions:
